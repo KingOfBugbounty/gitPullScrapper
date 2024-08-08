@@ -1,8 +1,10 @@
-# 🚀 Nuclei Pre-Master Template Downloader
+# 🚀 gitPullScrapper
 
 <p align="center">
   <img src="https://tse4.mm.bing.net/th?id=OIG1.jSaazG3_8xxuVQinnnsO&pid=ImgGn" alt="Nuclei Logo" width="300"/>
 </p>
+
+
 
 ## 🛠️ About the Script
 
@@ -20,3 +22,10 @@ By using this tool, you'll gain access to the latest templates **before** they'r
 
    ```bash
    export GITHUB_TOKEN=your_github_token_here
+   go build gitpull.go
+   ./gitpull
+
+![image](https://github.com/user-attachments/assets/813fa2df-dd81-46d8-b82f-9059de861668)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang Logo"/>
+</p>
